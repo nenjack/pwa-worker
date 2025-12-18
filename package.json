@@ -1,10 +1,10 @@
 {
   "name": "pwa-worker",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "description": "service worker for pwa - use fresh then cache response",
   "main": "index.js",
-  "repository": "https://github.com/jackie-aniki/pwa-worker.git",
-  "author": "Jacek Piętal <github.com/jackie-aniki>",
+  "repository": "https://github.com/nenjack/pwa-worker.git",
+  "author": "Jacek Piętal <github.com/nenjack>",
   "license": "MIT",
   "private": false,
   "types": "index.d.ts"
